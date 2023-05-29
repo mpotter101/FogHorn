@@ -1,0 +1,18 @@
+.hide {
+	display: none;
+}
+
+body, html{
+	background: #1f1b2e;
+	margin: 0;
+	padding: 0;
+}
+
+canvas {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100vw;
+	height: 100vh;
+	background-color: black;
+}
